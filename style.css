@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.atividade-1 {
+  background-color: rgb(66, 230, 216);
+  padding: 15px;
+  margin-bottom: 16px;
+  color: antiquewhite;
+}
+.atividade-2 {
+  background-color: red;
+  padding: 15px;
+  margin-bottom: 16px;
+  color: antiquewhite;
+}
+.atividade-3 {
+  background-color: green;
+  margin-bottom: 16px;
+  padding: 15px;
+  color: antiquewhite;
+}
+.atividade-4 {
+  background-color: rgb(33, 33, 112);
+  margin-bottom: 16px;
+  padding: 15px;
+  color: antiquewhite;
+}
+.atividade-5 {
+  background-color: indianred;
+  margin-bottom: 16px;
+  padding: 15px;
+  color: antiquewhite;
+  text-decoration: none;
+}
